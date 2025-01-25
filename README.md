@@ -1,4 +1,4 @@
-# ids
+# le_ids
 
 ![CI](https://github.com/Sliden101/le_ids/workflows/test/badge.svg?branch=main)
 [![Package Version](https://img.shields.io/hexpm/v/ids)](https://hex.pm/packages/le_ids)
