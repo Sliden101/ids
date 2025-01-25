@@ -1,8 +1,8 @@
 # ids
 
-![CI](https://github.com/lrosa007/ids/workflows/test/badge.svg?branch=main)
-[![Package Version](https://img.shields.io/hexpm/v/ids)](https://hex.pm/packages/ids)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/ids/)
+![CI](https://github.com/Sliden101/le_ids/workflows/test/badge.svg?branch=main)
+[![Package Version](https://img.shields.io/hexpm/v/ids)](https://hex.pm/packages/le_ids)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/le_ids/)
 
 ✨ Unique IDs for Gleam
 
@@ -14,14 +14,13 @@
 - [NanoID](https://github.com/ai/nanoid)
 - [ULID](https://github.com/ulid/spec)
 - [Snowflake ID](https://en.wikipedia.org/wiki/Snowflake_ID)
-- [TypeID](https://github.com/jetify-com/typeid)
 
 ## Installation
 
 The library is available on Hex so it can be added to your Gleam project by simply running:
 
 ```sh
-gleam add ids
+gleam add le_ids
 ```
 
 ## References
@@ -31,6 +30,3 @@ gleam add ids
 3. [Ecto UUID](https://github.com/elixir-ecto/ecto/blob/v3.5.4/lib/ecto/uuid.ex)
 4. [Elixir UUID](https://github.com/bitwalker/uniq)
 5. [Rust Snowflake ID](https://github.com/BinChengZhao/snowflake-rs)
-6. [TypeID Spec](https://github.com/jetify-com/typeid/tree/main/spec)
-6. [Elixir TypeID](https://github.com/sloanelybutsurely/typeid-elixir)
-
