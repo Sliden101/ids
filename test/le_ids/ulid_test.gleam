@@ -2,7 +2,7 @@ import gleam/list
 import gleam/result
 import gleam/string
 import gleeunit/should
-import ids/ulid
+import le_ids/ulid
 
 @external(erlang, "binary", "decode_unsigned")
 fn decode_unsigned(b: BitArray) -> Int

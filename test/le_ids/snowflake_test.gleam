@@ -3,7 +3,7 @@ import gleam/int
 import gleam/list
 import gleam/string
 import gleeunit/should
-import ids/snowflake
+import le_ids/snowflake
 
 pub fn gen_test() {
   let machine_id = 1

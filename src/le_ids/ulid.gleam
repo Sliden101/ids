@@ -5,7 +5,7 @@ import gleam/erlang/process.{type Subject}
 import gleam/int
 import gleam/otp/actor.{type Next, type StartResult}
 import gleam/string
-import ids/base32
+import le_ids/base32
 
 @internal
 pub const crockford_alphabet = "0123456789ABCDEFGHJKMNPQRSTVWXYZ"

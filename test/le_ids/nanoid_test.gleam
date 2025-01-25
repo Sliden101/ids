@@ -4,7 +4,7 @@ import gleam/set.{type Set}
 import gleam/string
 import gleeunit
 import gleeunit/should
-import ids/nanoid
+import le_ids/nanoid
 
 pub fn main() {
   gleeunit.main()
