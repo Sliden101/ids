@@ -1,4 +1,4 @@
-name = "ids"
+name = "le_ids"
 version = "0.14.0"
 licences = ["Apache-2.0"]
 description = "✨ Unique IDs for Gleam"
